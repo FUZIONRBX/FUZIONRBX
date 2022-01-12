@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuzionrbx&label=Profile%20views&color=0e75b6&style=flat" alt="fuzionrbx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuzionrbx" alt="fuzionrbx" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/fuzionqt" target="blank"><img src="https://img.shields.io/twitter/follow/fuzionqt?logo=twitter&style=for-the-badge" alt="fuzionqt" /></a> </p>
 
 - 🔭 Started progress on **"Nameless" Menu**
